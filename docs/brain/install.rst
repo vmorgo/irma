@@ -58,7 +58,7 @@ then, we need to install python dependencies manually in a virtualenv :
 .. code-block:: bash
 
     $ virtualenv --system-site-packages /opt/irma/irma-brain/current/venv
-    $ /opt/irma/irma-brain/current/venv/bin/pip install -r /opt/irma/irma-brain/current/requirements.txt
+    $ /opt/irma/irma-brain/current/venv/bin/pip install -r /opt/irma/irma-brain/current/brain/requirements.txt
     [...]
 
 
